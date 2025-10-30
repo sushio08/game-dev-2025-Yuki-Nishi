@@ -97,3 +97,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Blender
+*.blend1
+*.blend2
+*.blend3
+blendcache_*/
+
+# OS Files
+.DS_Store
+Thumbs.db
